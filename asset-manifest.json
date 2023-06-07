@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Passing-hadler-prop/static/css/main.65805322.css",
-    "main.js": "/Passing-hadler-prop/static/js/main.bd5c823a.js",
-    "static/js/787.f055211e.chunk.js": "/Passing-hadler-prop/static/js/787.f055211e.chunk.js",
-    "static/media/logo.svg": "/Passing-hadler-prop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Passing-hadler-prop/index.html",
-    "main.65805322.css.map": "/Passing-hadler-prop/static/css/main.65805322.css.map",
-    "main.bd5c823a.js.map": "/Passing-hadler-prop/static/js/main.bd5c823a.js.map",
-    "787.f055211e.chunk.js.map": "/Passing-hadler-prop/static/js/787.f055211e.chunk.js.map"
+    "main.css": "/Passing-handler-prop/static/css/main.65805322.css",
+    "main.js": "/Passing-handler-prop/static/js/main.37487327.js",
+    "static/js/787.f055211e.chunk.js": "/Passing-handler-prop/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/Passing-handler-prop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Passing-handler-prop/index.html",
+    "main.65805322.css.map": "/Passing-handler-prop/static/css/main.65805322.css.map",
+    "main.37487327.js.map": "/Passing-handler-prop/static/js/main.37487327.js.map",
+    "787.f055211e.chunk.js.map": "/Passing-handler-prop/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65805322.css",
-    "static/js/main.bd5c823a.js"
+    "static/js/main.37487327.js"
   ]
 }
