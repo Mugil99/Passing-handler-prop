@@ -1,38 +1,63 @@
-.App {
-  text-align: center;
+html, body {
+  height: 100%;
+  background-color: #3c415e;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#master {
+  height: 75%;
+  vertical-align: baseline;
+  padding-top: 10%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#root {
+  height: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.heading {
   color: white;
+  text-align: center;
+  position: relative;
+  top: -15%;
 }
 
-.App-link {
-  color: #61dafb;
+.holder {
+  display: flex;
+  margin: auto;
+  width: fit-content;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button {
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 14px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn-blue {
+  background: rgb(34, 193, 195);
+  color: black;
+}
+
+.btn-orange {
+  background: rgb(221, 112, 18);
+  color: black;
+}
+
+.btn-green {
+  background: rgb(44, 209, 88);
+  color: black;
+}
+.selection-color{
+ border: 2px solid white;
+ border-radius: 5px;
+ width:200px;
+ height:200px;
+}
+.children-wrapper{
+  display: flex;
+  flex-direction: row;
 }
